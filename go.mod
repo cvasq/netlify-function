@@ -1,5 +1,5 @@
-module github.com/remisb/netlify-function
+module github.com/cvasq/netlify-function
 
 go 1.14
 
-require github.com/aws/aws-lambda-go v1.17.0 // indirect
+require github.com/aws/aws-lambda-go v1.17.0
